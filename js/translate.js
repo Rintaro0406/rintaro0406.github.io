@@ -96,7 +96,7 @@ const translations = {
 <ul>
   <li>Newcastle University 🇬🇧 (2025–) – Tutor: LCR-Schaltungen (1. Jahr, auf Englisch)</li>
   <li>Newcastle University 🇬🇧 (2024–) – Tutor: Röntgendiffraktion & Compton-Streuung (2. Jahr, auf Englisch)</li>
-  <li>Humanitärer Freiwilliger 🇺🇦 (Aug 2024) – Unterstützung in Küche & Bäckerei in Kharkiw</li>
+  <li>Humanitärer Freiwilliger 🇺🇦 (Aug 2024) – Unterstützung in Küche & Bäckerei in Kharkiv</li>
   <li>Zeiss Meditec 🇩🇪 (2023–2024) – Forschungspraktikum in Medizintechnik, Biophysik und Computer Vision</li>
   <li>Universität München 🇩🇪 (März 2021) – Tutor: Lasersicherheit (auf Deutsch)</li>
 </ul>
