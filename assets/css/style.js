@@ -6,3 +6,16 @@ main h2 {
   border-bottom: 2px solid #ccc;
   padding-bottom: 0.3em;
 }
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f5f7fa;
+  background-image: url('../image/cat_background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+main h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.3em;
+}
