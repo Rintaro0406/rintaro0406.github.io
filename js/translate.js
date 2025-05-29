@@ -3,7 +3,6 @@ const translations = {
     cv: "CV",
     cv_text: `
 <p><strong>🎓 Education:</strong></p>
-<p><strong>🎓 Education:</strong></p>
 <ul>
   <li>PhD in Astrophysics, Newcastle University, UK 🇬🇧 (Sep 2024–)</li>
   <li>MSc in Astrophysics, Ludwig Maximilian University of Munich, Germany 🇩🇪 (Oct 2020–Sep 2023)</li>
@@ -14,7 +13,7 @@ const translations = {
       <ul>
         <li>PhD: Bayesian inference for galaxy density fields (STFC-funded)</li>
         <li>Internship: Machine learning for intraoperative brain imaging</li>
-        <li>MSc: GNN-based cosmology from weak lensing maps</li>
+        <li>MSc: Neural networks based cosmological parameter inference for weak lensing maps</li>
         <li>BSc: MRI stability in accretion disks</li>
       </ul>
 <p><strong>💼 Experience:</strong></p>
@@ -51,7 +50,8 @@ const translations = {
 <p><strong>🔬 研究:</strong></p>
 <ul>
   <li>博士課程：銀河密度場の高性能ベイズ推定法の開発（STFC資金提供）</li>
-  <li>修士課程：弱レンズ宇宙論へのグラフニューラルネットワークの応用</li>
+  <li>インターンシップ：手術中の脳画像解析における機械学習の応用</li>
+  <li>修士課程：弱レンズ宇宙論へのニューラルネットワークの応用</li>
   <li>学士課程：降着円盤の磁気回転不安定性（MRI）による安定性解析</li>
 </ul>
 <p><strong>💼 経験:</strong></p>
@@ -89,7 +89,7 @@ const translations = {
 <ul>
   <li>PhD: Bayesianische Inferenz für Galaxiendichtefelder (STFC-finanziert)</li>
   <li>Praktikum: Maschinelles Lernen für intraoperative Hirnbildgebung</li>
-  <li>MSc: Kosmologie mit GNNs aus Weak-Lensing-Karten</li>
+  <li>MSc: Kosmologie mit neuronalen Netzen aus Weak-Lensing-Karten</li>
   <li>BSc: Stabilität der MRI in Akkretionsscheiben</li>
 </ul>
 <p><strong>💼 Erfahrung:</strong></p>
