@@ -11,7 +11,7 @@ const translations = {
 </ul>
 <p><strong>🔬 Research:</strong></p>
 <ul>
-  <li>PhD: Bayesian spatial inference on photometric redshifts (LSST)</li>
+  <li>PhD: High-performance Bayesian galaxy density field estimation (STFC funded)</li>
   <li>MSc: Graph neural networks for weak lensing maps</li>
   <li>BSc: Accretion disk stability (MRI)</li>
 </ul>
@@ -46,9 +46,9 @@ const translations = {
 </ul>
 <p><strong>🔬 研究:</strong></p>
 <ul>
-  <li>博士：LSST向けのベイズ的空間photo-z推定</li>
-  <li>修士：弱重力レンズマップにおけるGNN</li>
-  <li>学士：降着円盤の安定性（MRI）</li>
+    <li>博士課程：高性能ベイズ銀河密度場推定（STFC資金提供）</li>
+    <li>修士課程：弱レンズマップのためのグラフニューラルネットワーク</li>
+    <li>学士課程：降着円盤の安定性（MRI）</li>
 </ul>
 <p><strong>💼 経験:</strong></p>
 <ul>
