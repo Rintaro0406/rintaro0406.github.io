@@ -1,11 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #f5f7fa;
-  background-image: url('../image/cat_background.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  background: linear-gradient(to bottom right, #f5f7fa, #dfe9f3);
 }
 
 main h2 {
