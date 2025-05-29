@@ -81,7 +81,7 @@ const translations = {
 </ul>
 <p><strong>🔬 Forschung:</strong></p>
 <ul>
-  <li>PhD: Bayessche räumliche Inferenz zu photometrischen Rotverschiebungen (LSST)</li>
+  <li>PhD: Hochleistungs-Bayessche Schätzung von Galaxien-Dichtefeldern (STFC gefördert)</li>
   <li>MSc: Graph-Neuronale Netze für Schwache Linsen Karten</li>
   <li>BSc: Stabilität von Akkretionsscheiben (MRI)</li>
 </ul>
