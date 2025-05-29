@@ -3,6 +3,10 @@ body {
   background: linear-gradient(to bottom right, #f5f7fa, #dfe9f3);
 }
 
+/* .header-clean {
+  background-image: url('../image/cat_background.jpeg');
+} */
+
 main h2 {
   border-bottom: 2px solid #ccc;
   padding-bottom: 0.3em;

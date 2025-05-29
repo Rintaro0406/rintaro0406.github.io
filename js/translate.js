@@ -114,3 +114,5 @@ function setLang(lang) {
     }
   });
 }
+
+setLang('en');
