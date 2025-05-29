@@ -5,7 +5,7 @@ const translations = {
 <p><strong>🎓 Education:</strong></p>
 <ul>
   <li>PhD Astrophysics, Newcastle University 🇬🇧 (2024–)</li>
-  <li>MSc Astrophysics, LMU Munich 🇩🇪 (2020–2023)</li>
+  <li>MSc Astrophysics, Univ. of Munich 🇩🇪 (2020–2023)</li>
   <li>Exchange, Univ. of Bologna 🇮🇹 (2021–2022)</li>
   <li>BSc Physics, Univ. Bayreuth 🇩🇪 (2017–2020)</li>
 </ul>
@@ -40,9 +40,9 @@ const translations = {
 <p><strong>🎓 学歴:</strong></p>
 <ul>
   <li>博士課程：ニューカッスル大学 🇬🇧 (2024–)</li>
-  <li>修士課程：LMUミュンヘン 🇩🇪 (2020–2023)</li>
+  <li>修士課程：ミュンヘン大学 🇩🇪 (2020–2023)</li>
   <li>交換留学：ボローニャ大学 🇮🇹 (2021–2022)</li>
-  <li>学士課程：バイロイト大学 🇩🇪 (2017–2020)</li>
+  <li>学士課程：バイロイト大学 物理学科🇩🇪 (2017–2020)</li>
 </ul>
 <p><strong>🔬 研究:</strong></p>
 <ul>
