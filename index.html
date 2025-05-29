@@ -16,29 +16,31 @@
 </head>
 <body>
 
-<header class="header-clean text-white text-center p-5">
-  <div class="container d-flex flex-column flex-md-row align-items-center">
-    <div class="flex-grow-1 text-center text-md-start me-md-4">
-      <img src="assets/image/profile.jpeg" class="rounded-circle mb-3" alt="Rintaro Kanaki" width="160" />
-      <h1>Rintaro Kanaki</h1>
-      <p id="subtitle">Ph.D. Student at Newcastle University, UK 🇬🇧</p>
-      <p class="mt-3">Cosmology 🔭| Statistics 📉| Data Science 💻| Physics 🍎</p>
-      <div class="mt-3">
-        <button class="btn btn-sm btn-light mx-1" onclick="setLang('en')">🇬🇧 EN</button>
-        <button class="btn btn-sm btn-light mx-1" onclick="setLang('ja')">🇯🇵 日本語</button>
-        <button class="btn btn-sm btn-light mx-1" onclick="setLang('de')">🇩🇪 Deutsch</button>
+<header class="header-clean text-white">
+  <div class="container py-5">
+    <div class="row align-items-center">
+      <div class="col-md-6 text-center text-md-start">
+        <img src="assets/image/profile.jpeg" class="rounded-circle mb-3" alt="Rintaro Kanaki" width="160" />
+        <h1>Rintaro Kanaki</h1>
+        <p id="subtitle">Ph.D. Student at Newcastle University, UK 🇬🇧</p>
+        <p class="mt-3">Cosmology 🔭| Statistics 📉| Data Science 💻| Physics 🍎</p>
+        <div class="mt-3">
+          <button class="btn btn-sm btn-light mx-1" onclick="setLang('en')">🇬🇧 EN</button>
+          <button class="btn btn-sm btn-light mx-1" onclick="setLang('ja')">🇯🇵 日本語</button>
+          <button class="btn btn-sm btn-light mx-1" onclick="setLang('de')">🇩🇪 Deutsch</button>
+        </div>
+        <div class="mt-3">
+          <a href="https://www.linkedin.com/in/rintaro-kanaki" target="_blank" class="btn btn-outline-light btn-sm mx-1">LinkedIn</a>
+          <a href="https://github.com/Rintaro0406" target="_blank" class="btn btn-outline-light btn-sm mx-1">GitHub</a>
+          <a href="https://en.numista.com/echanges/profil.php?id=497319" target="_blank" class="btn btn-outline-light btn-sm mx-1">Numista</a>
+          <a href="https://blogs.ncl.ac.uk/cosmology/group" target="_blank" class="btn btn-outline-light btn-sm mx-1">Newcastle Cosmology Group</a>
+          <a href="https://blogs.ncl.ac.uk/stats-phds/rintaro-kanaki/" target="_blank" class="btn btn-outline-light btn-sm mx-1">Newcastle Statistics Group</a>
+          <a href="mailto:r.kanaki2@newcastle.ac.uk" class="btn btn-outline-light btn-sm mx-1">Email</a>
+        </div>
       </div>
-      <div class="mt-3">
-        <a href="https://www.linkedin.com/in/rintaro-kanaki" target="_blank" class="btn btn-outline-light btn-sm mx-1">LinkedIn</a>
-        <a href="https://github.com/Rintaro0406" target="_blank" class="btn btn-outline-light btn-sm mx-1">GitHub</a>
-        <a href="https://en.numista.com/echanges/profil.php?id=497319" target="_blank" class="btn btn-outline-light btn-sm mx-1">Numista</a>
-        <a href="https://blogs.ncl.ac.uk/cosmology/group" target="_blank" class="btn btn-outline-light btn-sm mx-1">Newcastle Cosmology Group</a>
-        <a href="https://blogs.ncl.ac.uk/stats-phds/rintaro-kanaki/" target="_blank" class="btn btn-outline-light btn-sm mx-1">Newcastle Statistics Group</a>
-        <a href="mailto:r.kanaki2@newcastle.ac.uk" class="btn btn-outline-light btn-sm mx-1">Email</a>
+      <div class="col-md-6 d-none d-md-block">
+        <img src="assets/image/cat_background.jpeg" alt="Cat" class="img-fluid rounded shadow" />
       </div>
-    </div>
-    <div class="d-none d-md-block mt-4 mt-md-0">
-      <img src="assets/image/cat_background.jpeg" alt="Cat" class="img-fluid rounded shadow" style="max-height: 220px;" />
     </div>
   </div>
 </header>
@@ -57,7 +59,30 @@
 <main class="container py-5">
   <section id="cv" class="mb-5">
     <h2 data-i18n="cv">CV </h2>
-    <p data-i18n="cv_text">Download my latest CV <a href="assets/Rintaro_Kanaki_CV.pdf">here</a>.</p>
+    <div data-i18n="cv_text">
+      <p><strong>🎓 Education:</strong></p>
+      <ul>
+        <li>PhD Astrophysics, Newcastle University 🇬🇧 (2024–)</li>
+        <li>MSc Astrophysics, LMU Munich 🇩🇪 (2020–2023)</li>
+        <li>Exchange, Univ. of Bologna 🇮🇹 (2021–2022)</li>
+        <li>BSc Physics, Univ. Bayreuth 🇩🇪 (2017–2020)</li>
+      </ul>
+      <p><strong>🔬 Research:</strong></p>
+      <ul>
+        <li>PhD: Bayesian spatial inference on photometric redshifts (LSST)</li>
+        <li>MSc: Graph neural networks for weak lensing maps</li>
+        <li>BSc: Accretion disk stability (MRI)</li>
+      </ul>
+      <p><strong>💼 Experience:</strong></p>
+      <ul>
+        <li>Newcastle University 🇬🇧 – Teaching assistant in Laboratory Physics</li>
+        <li>Zeiss Meditec Internship 🇩🇪(2023–2024) – Brain imaging & Computer Vision</li>
+        <li>LMU Munich 🇩🇪 – Teaching assistant in Laboratory Astrophysics</li>
+      </ul>
+      <p><strong>🧑‍🏫 Teaching Assistant:</strong> Compton Scattering, XRD, Laser Safety (🇬🇧🇩🇪)</p>
+      <p><strong>💬 Languages:</strong> 🇯🇵 Native, 🇩🇪 C1, 🇬🇧 B2, 🇮🇹 A1</p>
+      <p>Download my latest CV <a href="assets/Rintaro_Kanaki_CV.pdf">here</a>.</p>
+    </div>
   </section>
 
   <section id="research" class="mb-5">
