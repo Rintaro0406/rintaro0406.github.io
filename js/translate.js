@@ -8,7 +8,7 @@ const translations = {
     hobby1: "Physics and Statistical Science",
     hobby2: "International Coin Collection",
     hobby3: "Travel journals and walks",
-    hobby4: "Cooking and smoking"
+    hobby4: "Cooking and smoking",
     apps: "App / Code"
   },
   ja: {
